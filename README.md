@@ -1,5 +1,5 @@
 # Online-Boat-Reservation-System
-ONLINE BOAT RESERVATION SYSTEM IN PHP WITH SOURCE CODE  \  
+ONLINE BOAT RESERVATION SYSTEM IN PHP WITH SOURCE CODE
 Features:
 Login – Register  
         Add, Edit, Delete and View Boats 
